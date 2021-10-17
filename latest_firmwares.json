@@ -1,13 +1,16 @@
 {
    "versions":[
       {
-         "model":"mini"
+         "model":"mini",
+         "path_to_firmware":"https://github.com/novacom34/LampFirmware/raw/main/mini/0.1.bin"
       },
       {
-         "model":"medium"
+         "model":"medium",
+         "path_to_firmware":"https://github.com/novacom34/LampFirmware/raw/main/medium/0.1.bin"
       },
       {
-         "model":"max"
+         "model":"max",
+         "path_to_firmware":"https://github.com/novacom34/LampFirmware/raw/main/max/0.1.bin"
       }
    ]
 }
