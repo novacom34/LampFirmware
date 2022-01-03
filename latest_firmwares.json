@@ -7,7 +7,7 @@
     },
     {
       "model": "medium",
-      "path_to_firmware": "https://github.com/novacom34/LampFirmware/raw/main/medium/1.2.bin",
+      "path_to_firmware": "http://65.108.179.134/bin/1.2.bin",
       "latest_version": "1.2",
       "whats_new": "Test update to version 1.2"
     },
